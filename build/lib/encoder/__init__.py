@@ -1,1 +1,1 @@
-import pig_latin
+from encoder.pig_latin import *
